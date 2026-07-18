@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState, useEffect, useRef, useMemo, useCallback } from "react";
 import {
   Search, Command, Github, Sun, Moon, User, ChevronRight, Copy, RotateCcw,
